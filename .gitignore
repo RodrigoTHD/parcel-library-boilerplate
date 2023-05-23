@@ -1,0 +1,12 @@
+# ignore files
+*.js
+*.js.map
+*.d.ts
+dist
+node_modules/
+.parcel-cache
+*.tgz
+
+# allowed files
+!jest.config.js
+!globals.d.ts
